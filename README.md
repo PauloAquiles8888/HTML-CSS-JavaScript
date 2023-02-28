@@ -1,2 +1,1 @@
-# HTML-CSS-JavaScript
-JavaScript
+A simple comparer using html, css and JavaScript. I developed It just to compare labels, I applied It on a scanner that was set up to use only a determine browser and with this file set up as home file.
